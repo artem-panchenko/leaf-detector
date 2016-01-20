@@ -25,7 +25,7 @@ import warnings
 
 import cv2
 from imutils import paths
-from pyimagesearch.pyimagesearch import LocalBinaryPatterns
+from localbinarypatterns.localbinarypatterns import LocalBinaryPatterns
 from sklearn.svm import LinearSVC
 
 from cli import parse_cli
